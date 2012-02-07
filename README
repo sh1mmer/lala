@@ -1,7 +1,7 @@
 LALA - Licensing Avoids Legally Anxiety 
 
 This service helps you make sure that your open source project is well licensed.
-  * Avoid legal hassel
+  * Avoid legal hassle
   * Enable other people to use your project with confidence
 
 In order to use this service you will need:
@@ -18,4 +18,4 @@ For exsiting projects LALA will help you:
 
   1. Identify existing license declarations
   2. Pick a new license or validate an existing one
-  3. Automatically maintain license declarations on the repoistory
+  3. Automatically maintain license declarations on the repository
